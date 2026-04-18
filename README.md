@@ -8,6 +8,7 @@ batch converts SA .dff models to .glb for use in godot. uses blender + dragonff 
 - python 3.10+
 - blender 4.x or 5.x
 - [DragonFF](https://github.com/Parik27/DragonFF) (the folder, not installed in blender)
+- .dff and .png files extracted and put in a certain folder. for example i have both both .dff and .png files in `C:\Users\USERNAME\Desktop\SA\Extracted imgs`
 
 ---
 
