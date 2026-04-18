@@ -1,14 +1,14 @@
 @echo off
 :: ============================================================
-::  build.bat  –  compile dff_to_glb.py into a standalone EXE
+::   compile dff_to_glb.py into a standalone .exe
 :: ============================================================
 ::
-::  The EXE still requires:
+::  The .exe still requires:
 ::    • Blender installed (path set in converter.cfg)
 ::    • DragonFF-master folder (path set in converter.cfg)
 ::    • blender_worker.py  next to the EXE
 ::
-::  blender_worker.py is NOT bundled inside the EXE — it must
+::  blender_worker.py is not bundled inside the .exe it must
 ::  sit in the same folder as dff_to_glb.exe at runtime.
 :: ============================================================
 
