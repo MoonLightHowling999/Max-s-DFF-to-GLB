@@ -1,3 +1,7 @@
+# 2025-2026 | author: Max Nexten | github repo: https://github.com/MoonLightHowling999/Max-s-DFF-to-GLB/tree/main
+# enojoy :3
+
+
 import sys, os, argparse, configparser, subprocess, logging, shutil
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
