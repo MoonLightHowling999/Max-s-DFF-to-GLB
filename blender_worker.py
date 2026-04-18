@@ -1,3 +1,4 @@
+# 2025-2026 | author: Max Nexten | github repo: https://github.com/MoonLightHowling999/Max-s-DFF-to-GLB/tree/main
 # runs inside blender --background, called by dff_to_glb.py
 # env vars: DFF_INPUT, DFF_OUTPUT, DFF_ADDON
 
