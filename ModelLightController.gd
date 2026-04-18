@@ -2,6 +2,8 @@
 # finds all omnilight3d children and lets you control them with one slider
 # works in editor too (@tool)
 
+# NOTE: this was writen for Godot 4.6 beta which means this script might not play well in newer version
+
 @tool
 extends Node3D
 
