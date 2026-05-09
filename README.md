@@ -89,5 +89,5 @@ copy `blender_worker.py` and `converter.cfg` next to the exe in `dist/`. blender
 ## known issues
 
 - ped skins with bone weights import fine but won't animate in godot without a separate skeleton setup and they also have broken UVs
-- some LOD models (prefixed `_lod_`) have no geometry, just an empty frame — they export as empty glbs, that's correct
+- some LOD models (prefixed `_lod_`) have no geometry, just an empty frame. they export as empty glbs, that's correct
 - if a model fails check the full error with `--debug modelname.dff`
